@@ -1,0 +1,27 @@
+.wrapper {
+    background-color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color:#4aaaa5;
+    margin: 0px;
+    padding: 20px;
+    color: #ffffff;
+    width: 200px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    position: absolute;
+    right: 200px;
+    top:25px;
+    display: inline-flex;
+    background-color: #ffffff;
+    color:#777;
+}
